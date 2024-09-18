@@ -1,0 +1,11 @@
+Các bước cơ bản:
+    Nhập mã số thuế từ danh sách.
+    Chọn khoảng thời gian để tra cứu tờ khai.
+    Lấy danh sách các ngày có tờ khai.
+    Chọn từng ngày và lấy danh sách các tờ khai chi tiết.
+    Tải tờ khai từ danh sách đó.
+
+Dùng python với selenium
+    Selenium: Để điều khiển trình duyệt và tự động thực hiện thao tác trên trang web.
+    Requests: Để tải xuống file tờ khai.
+    Danh sách mã số thuế: Một file chứa các mã số thuế mà bạn cần xử lý.
